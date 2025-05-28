@@ -40,22 +40,20 @@ You can view a short video demo of both summer and winter views:
 
 Example (Linux):
 bash
-g++ main.cpp -lGL -lGLU -lglut -o scene
-./scene
+(g++ main.cpp -lGL -lGLU -lglut -o scene
+./scene)
 
 Example (Windows – with freeglut):
 - Use an IDE like Code::Blocks or Visual Studio with GLUT linked.
 
 ## Folder Structure
-
-SummerWinter-OpenGL
+(SummerWinter-OpenGL
 ├── main.cpp
 ├── screenshots/
 │   ├── summer.png
 │   └── winter.png
 ├── demo.mp4
-└── README.md
-
+└── README.md)
 
 ## License
 
