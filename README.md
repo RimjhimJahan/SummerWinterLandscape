@@ -24,7 +24,7 @@ Animated using GLUT timers
 ![Summer Scene](summerscene.png)
 
 ### Winter View
-![Winter Scene](winter scene.png)
+![Winter Scene](winterscene.png)
 
 ## Demo Video
 
