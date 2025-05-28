@@ -20,11 +20,12 @@ Animated using GLUT timers
 
 ## Screenshots
 
-### Winter View
-![Winter Scene](winter scene.png)
-s
+
 ### Summer View
 ![Summer Scene](summerscene.png)
+
+### Winter View
+![Winter Scene](winterscene.png)
 
 
 ## Demo Video
@@ -39,22 +40,22 @@ You can view a short video demo of both summer and winter views:
 1. Make sure your system has OpenGL & GLUT installed.
 2. Compile and run the code using any C++ compiler that supports OpenGL.
 
-Example (Linux):
-bash
-(g++ main.cpp -lGL -lGLU -lglut -o scene
-./scene)
+ Example (Linux):
+ bash
+ (g++ main.cpp -lGL -lGLU -lglut -o scene
+ ./scene)
 
-Example (Windows – with freeglut):
-- Use an IDE like Code::Blocks or Visual Studio with GLUT linked.
+ Example (Windows – with freeglut):
+ Use an IDE like Code::Blocks or Visual Studio with GLUT linked.
 
 ## Folder Structure
 
 SummerWinter-OpenGL
-main.cpp
+main.cpp,
 screenshots
- summer.png
- winter.png
- demo.mp4
+ (summer.png,
+ winter.png,
+ demo.mp4)
 README.md
 
 ## License
