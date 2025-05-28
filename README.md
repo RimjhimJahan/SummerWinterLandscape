@@ -20,11 +20,12 @@ Animated using GLUT timers
 
 ## Screenshots
 
+### Winter View
+![Winter Scene](winter scene.png)
+s
 ### Summer View
 ![Summer Scene](summerscene.png)
 
-### Winter View
-![Winter Scene](winterscene.png)
 
 ## Demo Video
 
