@@ -47,13 +47,14 @@ Example (Windows – with freeglut):
 - Use an IDE like Code::Blocks or Visual Studio with GLUT linked.
 
 ## Folder Structure
-(SummerWinter-OpenGL
-├── main.cpp
-├── screenshots/
-│   ├── summer.png
-│   └── winter.png
-├── demo.mp4
-└── README.md)
+
+SummerWinter-OpenGL
+main.cpp
+screenshots
+ summer.png
+ winter.png
+ demo.mp4
+README.md
 
 ## License
 
