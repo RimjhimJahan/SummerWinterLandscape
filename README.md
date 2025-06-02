@@ -18,22 +18,6 @@ Winter scene with:
 Press T to toggle between Summer and Winter scenes  
 Animated using GLUT timers
 
-## Screenshots
-
-
-### Summer View
-![Summer Scene](summerscene.png)
-
-### Winter View
-![Winter Scene](winterscene.png)
-
-
-## Demo Video
-
-You can view a short video demo of both summer and winter views:
-
-[Demo Video on GitHub](demo.mp4)
-
 
 ## How to Run
 
@@ -51,12 +35,21 @@ You can view a short video demo of both summer and winter views:
 ## Folder Structure
 
 SummerWinter-OpenGL
-main.cpp,
-screenshots
- (summer.png,
- winter.png,
- demo.mp4)
-README.md
+|-- main.cpp
+|-- summerscene.png
+|-- winterscene.png
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+
+## Challenges Faced
+- Keeping elements layered properly (sun behind clouds)
+- Preventing the car from overlapping the snowman
+- Managing animation speed and smooth transitions
+- Syncing snowfall and bird movement correctly
+
+## Outcome
+This project successfully demonstrates a season-switching animated scene using OpenGL and enhanced my understanding of 2D graphics programming, animation logic, and interaction design.
 
 ## License
 
